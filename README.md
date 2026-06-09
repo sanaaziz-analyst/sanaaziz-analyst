@@ -71,3 +71,12 @@ My focus is on creating clean data models, intuitive dashboards, and reliable re
 
   </a>
 </p>
+
+---
+
+---
+
+## ✨ Final Note
+
+> *“I don’t just analyse data — I solve problems with it.”*  
+**Thanks for visiting my profile.**
