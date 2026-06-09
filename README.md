@@ -45,8 +45,8 @@ My focus is on creating clean data models, intuitive dashboards, and reliable re
 ---
 
 ## 🚀 What I'm Working On
-- PL‑300 certification  
-- Building GitHub portfolio  
+- PL‑300 certification
+- Advanced SQL queries 
 - Improving DAX confidence  
 
 ---
@@ -55,5 +55,9 @@ My focus is on creating clean data models, intuitive dashboards, and reliable re
 <p align="left">
   <a href="https://linkedin.com/in/sana-aziz-analyst-uk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="mailto:sana.aziz.leo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
   </a>
 </p>
