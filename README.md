@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.05582406-ae08-4f40-a9e4-6f827dae0377.png" alt="Sana Aziz – Data Analyst Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/sanaaziz-data/sanaaziz-data/main/Sana_GitHub_Banner_Typing(1).gif" width="100%">
 </p>
 
 
