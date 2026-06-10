@@ -36,28 +36,28 @@ My focus is on creating clean data models, intuitive dashboards, and reliable re
 
 
 ### **What I Do**
-- 📊 Build dashboards & KPI reports  
-- 🧹 Clean and transform messy datasets  
-- 🧠 Create data models & DAX measures  
-- 📈 Tell stories with data  
-- ⚙️ Automate reporting workflows  
+🔹 📊 Build dashboards & KPI reports  
+🔹🧹 Clean and transform messy datasets  
+🔹 🧠 Create data models & DAX measures  
+🔹 📈 Tell stories with data  
+🔹 ⚙️ Automate reporting workflows  
 
 ---
 
 ## 📂 Portfolio Projects
 (Projects will be added as I upload them)
 
-- 🍽️ **Restaurant Insights & Star Restaurant Identification**  
+🔹 🍽️ **Restaurant Insights & Star Restaurant Identification**  
   *Python (Pandas), SQL, Tableau*  
  
-- More coming soon…
+🔹 More coming soon…
 
 ---
 
 ## 🚀 What I'm Working On
-- PL‑300 certification
-- Advanced SQL queries 
-- Improving DAX confidence  
+🔹 PL‑300 certification
+🔹 Advanced SQL queries 
+🔹 Improving DAX confidence  
 
 ---
 
