@@ -47,12 +47,11 @@ My focus is on creating clean data models, intuitive dashboards, and reliable re
 ## 📂 Portfolio Projects
 (Projects will be added as I upload them)
 
-🔹 🍽️ **Restaurant Insights & Star Restaurant Identification**  
+🔹 [🍽️ **Restaurant Insights & Star Restaurant Identification**](https://github.com/sanaaziz-analyst/restaurant-insights-and-star-restaurant-identification)  
   *Python (Pandas), SQL, Tableau*  
- 
+
 🔹 More coming soon…
 
----
 
 ## 🚀 What I'm Working On
 🔹 PL‑300 certification
@@ -65,12 +64,17 @@ My focus is on creating clean data models, intuitive dashboards, and reliable re
 <p align="left">
   <a href="https://linkedin.com/in/sana-aziz-analyst-uk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a href="mailto:sana.aziz.leo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  </a>
 
+  <a href="mailto:sana.aziz.leo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="tel:+447752712870">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
