@@ -75,7 +75,7 @@ My focus is on creating clean data models, intuitive dashboards, and reliable re
   </a>
 </p>
 
-
+📞 **Phone:** +44 7752 712870
 ---
 
 ---
