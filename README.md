@@ -70,13 +70,7 @@ My focus is on creating clean data models, intuitive dashboards, and reliable re
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="tel:+447752712870">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
-</p>
 
-📞 **Phone:** +44 7752 712870
----
 
 ---
 
